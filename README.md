@@ -1,12 +1,9 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcuMiMx7uRa/giphy.gif" width="30px"/>
-  <br/>
-  
-  # Hey, I'm Mohit Ray
+  <h1>👋 Hey, I'm Mohit Ray</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F05032&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F05032&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
   </a>
   
   <br/>
