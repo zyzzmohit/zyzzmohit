@@ -127,7 +127,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pacman Running" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%" alt="Pacman Running" />
 
 </div>
 
@@ -214,7 +214,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
   <br/>
   <br/>
 
-  > *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+  > *"First, solve the problem. Then, write the code."* - John Johnson
 
   <br/>
 
