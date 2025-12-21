@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
@@ -40,7 +40,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
@@ -48,15 +48,15 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
   <h2>🐍 My Contribution History</h2>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zyzzmohit/zyzzmohit/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zyzzmohit/zyzzmohit/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/zyzzmohit/zyzzmohit/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
@@ -81,26 +81,26 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zyzzmohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   
   <br/><br/>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zyzzmohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyzzmohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
@@ -133,7 +133,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
 <br/>
 
@@ -157,7 +157,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zyzzmohit&label=Profile%20Views&color=0e75b6&style=flat" />
 
   <br/>
   <br/>
