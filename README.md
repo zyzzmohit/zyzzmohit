@@ -61,30 +61,75 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
 <br/>
 
-## 🛠 Tech Arsenal
+## 🎯 Tech Stack Breakdown
 
 <div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="100" alt="Frontend Core" />
+      <br/>
+      <b>Frontend Core</b>
+      <br/>
+      HTML5 • CSS3 • JavaScript
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react,vercel" width="65" alt="Frameworks" />
+      <br/>
+      <b>Frameworks & Deployment</b>
+      <br/>
+      React.js • Vercel
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=java,go" width="65" alt="Programming" />
+      <br/>
+      <b>Programming</b>
+      <br/>
+      Java • Go
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=git,github" width="65" alt="Version Control" />
+      <br/>
+      <b>Version Control</b>
+      <br/>
+      Git • GitHub
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=linux,vscode" width="65" alt="Dev Environment" />
+      <br/>
+      <b>Development Environment</b>
+      <br/>
+      Linux • VS Code
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=npm" width="35" alt="Package Mgmt" />
+      <br/>
+      <b>Package Management</b>
+      <br/>
+      npm
+    </td>
+  </tr>
+</table>
 
-  ### 🎨 Frontend Development
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+<br/>
 
-  <br/><br/>
+<h3>🎨 What I Build With</h3>
+<p>
+  <b>Frontend Development:</b> Creating responsive, modern web interfaces with React and vanilla JavaScript<br/>
+  <b>Algorithm Design:</b> Implementing efficient data structures and algorithms in Java<br/>
+  <b>System Programming:</b> Exploring Go for performance-critical applications<br/>
+  <b>Workflow Automation:</b> Leveraging Linux and Git for streamlined development
+</p>
 
-  ### 💻 Programming & Backend
-  <img src="https://skillicons.dev/icons?i=java,go,nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,go,linux,git,github,vscode,vercel,npm" />
 
-  <br/><br/>
+<br/><br/>
 
-  ### 🔧 Tools & Workflow
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,npm" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pacman Running" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
-
-<br/>
 
 <br/>
 
@@ -102,34 +147,6 @@ I'm a Full Stack Developer specializing in building modern web applications with
   
   <p>
     I actively contribute to open-source projects and believe in the power of collaborative development. Whether it's fixing bugs, adding features, or improving documentation, I'm always looking for ways to give back to the community.
-  </p>
-</div>
-
-<br/>
-
-### 🎯 Contribution Philosophy:
-
-* **Quality over quantity**
-* **Clear, documented code**
-* **Responsive to feedback**
-* **Community-first mindset**
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyzzmohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  
-  <br/><br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zyzzmohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyzzmohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 </div>
 
@@ -176,7 +193,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
   ## 📬 Let's Connect
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40">
   
   <br/>
   
@@ -201,6 +218,6 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 </div>
