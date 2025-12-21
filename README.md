@@ -86,6 +86,40 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
 <br/>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
+
+<br/>
+
+<div align="center">
+  <h2>🌟 Open Source Contributions</h2>
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120" alt="Java Beating" />
+  
+  <br/><br/>
+  
+  <p>
+    I actively contribute to open-source projects and believe in the power of collaborative development. Whether it's fixing bugs, adding features, or improving documentation, I'm always looking for ways to give back to the community.
+  </p>
+</div>
+
+<br/>
+
+### 🎯 Contribution Philosophy:
+
+* **Quality over quantity**
+* **Clear, documented code**
+* **Responsive to feedback**
+* **Community-first mindset**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
