@@ -1,19 +1,25 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohit+Ray;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Web+Apps;Always+Learning..." alt="Typing SVG" />
-  </a>
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcuMiMx7uRa/giphy.gif" width="30px"/>
   <br/>
+  
+  # Hey, I'm Mohit Ray
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F05032&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  <br/>
+  
   <a href="https://www.linkedin.com/in/mohitray/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohitray949@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#-portfolio-highlights">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
   
 </div>
@@ -26,17 +32,15 @@
 
 ## ⚡ About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right">
-</div>
+I'm a Full Stack Developer specializing in building modern web applications with React and JavaScript. My work focuses on creating responsive, user-centric interfaces while maintaining clean, scalable codebases.
 
-I am a passionate **Full Stack Developer** with a knack for building robust and scalable web applications. I bridge the gap between complex backend logic and interactive frontend experiences.
+**What I Do:**
+* Develop full-stack web applications using **React, JavaScript, HTML5, and CSS3**
+* Implement efficient algorithms and data structures in **Java**
+* Work with **Go** for backend services and system-level programming
+* Contribute to open-source projects and collaborative development
 
-* 🔭 I’m currently working on **Full Stack Web Architecture** and **System Design**.
-* 🌱 I’m currently deep-diving into **Distributed Systems**, **Microservices**, and **Cloud Native Tech**.
-* 👯 I’m looking to collaborate on **Open Source Projects** involving Java and React.
-* 💬 Ask me about **React.js, Java (Spring Boot), Go, and Database Optimization**.
-* ⚡ Fun fact: I love turning coffee into code and bugs into features!
+**Philosophy:** *I believe in writing code that's maintainable, well-documented, and built to scale. Every line of code should serve a purpose.*
 
 <br/>
 
@@ -64,18 +68,18 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
 <div align="center">
 
-  ### 🎨 Frontend & UI
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,figma" />
-  
-  <br/><br/>
-
-  ### ⚙️ Backend & Database
-  <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,express,mysql,postgres,mongodb,redis" />
+  ### 🎨 Frontend Development
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 
   <br/><br/>
 
-  ### 🔧 DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,postman,vscode" />
+  ### 💻 Programming & Backend
+  <img src="https://skillicons.dev/icons?i=java,go,nodejs,express,mysql,mongodb" />
+
+  <br/><br/>
+
+  ### 🔧 Tools & Workflow
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,npm" />
 
 </div>
 
@@ -111,7 +115,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
   <tr>
     <td align="center" width="300">
       <h3>🚀 Project Name 1</h3>
-      <p>A full-stack e-commerce dashboard with real-time analytics.</p>
+      <p>A full-stack e-commerce dashboard.</p>
       <a href="LINK_TO_REPO_1">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -120,7 +124,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
     </td>
     <td align="center" width="300">
       <h3>⚡ Project Name 2</h3>
-      <p>High-performance chat application using WebSockets.</p>
+      <p>Real-time chat application.</p>
       <a href="LINK_TO_REPO_2">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -157,7 +161,7 @@ I am a passionate **Full Stack Developer** with a knack for building robust and 
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=zyzzmohit&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=zyzzmohit&label=Profile%20Views&color=F05032&style=flat" />
 
   <br/>
   <br/>
