@@ -1,15 +1,11 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Mohit+Ray;Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohit+Ray;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Web+Apps;Always+Learning..." alt="Typing SVG" />
   </a>
-  
+
   <br/>
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcuMiMx7uRa/giphy.gif" width="30px"/>
-  
-  <br/>
-  
   <a href="https://www.linkedin.com/in/mohitray/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,17 +20,29 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 ## ⚡ About Me
 
-I'm a Full Stack Developer specializing in building modern web applications with React and JavaScript. My work focuses on creating responsive, user-centric interfaces while maintaining clean, scalable codebases.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right">
+</div>
 
-**What I Do:**
-* 🔭 I’m currently working on **Full Stack Web Architecture**
-* 🌱 I’m currently learning **Distributed Systems & Microservices**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **React, Java, and System Design**
+I am a passionate **Full Stack Developer** with a knack for building robust and scalable web applications. I bridge the gap between complex backend logic and interactive frontend experiences.
 
----
+* 🔭 I’m currently working on **Full Stack Web Architecture** and **System Design**.
+* 🌱 I’m currently deep-diving into **Distributed Systems**, **Microservices**, and **Cloud Native Tech**.
+* 👯 I’m looking to collaborate on **Open Source Projects** involving Java and React.
+* 💬 Ask me about **React.js, Java (Spring Boot), Go, and Database Optimization**.
+* ⚡ Fun fact: I love turning coffee into code and bugs into features!
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <div align="center">
   <h2>🐍 My Contribution History</h2>
@@ -48,55 +56,52 @@ I'm a Full Stack Developer specializing in building modern web applications with
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 ## 🛠 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,go,linux,git,github,docker,vercel,npm&perline=12" />
+
+  ### 🎨 Frontend & UI
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,figma" />
+  
+  <br/><br/>
+
+  ### ⚙️ Backend & Database
+  <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,express,mysql,postgres,mongodb,redis" />
+
+  <br/><br/>
+
+  ### 🔧 DevOps & Tools
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,postman,vscode" />
+
 </div>
 
 <br/>
 
-## 🎯 Tech Stack Breakdown
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="100" alt="Frontend Core" />
-      <br/>
-      <b>Frontend Core</b>
-      <br/>
-      HTML5 • CSS3 • JavaScript
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react,vercel" width="65" alt="Frameworks" />
-      <br/>
-      <b>Frameworks & Deployment</b>
-      <br/>
-      React.js • Vercel
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=java,go" width="65" alt="Programming" />
-      <br/>
-      <b>Programming</b>
-      <br/>
-      Java • Go
-    </td>
-  </tr>
-</table>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  
+  <br/><br/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-<hr/>
 <br/>
 
 ## 📂 Portfolio Highlights
@@ -106,7 +111,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
   <tr>
     <td align="center" width="300">
       <h3>🚀 Project Name 1</h3>
-      <p>A full-stack e-commerce dashboard.</p>
+      <p>A full-stack e-commerce dashboard with real-time analytics.</p>
       <a href="LINK_TO_REPO_1">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -115,7 +120,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
     </td>
     <td align="center" width="300">
       <h3>⚡ Project Name 2</h3>
-      <p>Real-time chat application.</p>
+      <p>High-performance chat application using WebSockets.</p>
       <a href="LINK_TO_REPO_2">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -127,15 +132,20 @@ I'm a Full Stack Developer specializing in building modern web applications with
 </div>
 
 <br/>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/>
 
 <div align="center">
 
   ## 📬 Let's Connect
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   
+  <br/>
+  
+  **I'm always open to interesting conversations and collaboration opportunities!**
   <br/>
   
   <a href="https://www.linkedin.com/in/mohitray/">
