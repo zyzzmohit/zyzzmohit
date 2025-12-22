@@ -157,6 +157,7 @@ I'm a Full Stack Developer specializing in building modern web applications with
 <br/>
 
 ## 📂 Portfolio Highlights
+<br/><br/>
 
 <div align="center">
 <table>
@@ -182,8 +183,6 @@ I'm a Full Stack Developer specializing in building modern web applications with
   </tr>
 </table>
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284111-47752e25-06f0-461d-a0c5-5558913d80d2.gif" width="100%">
 
