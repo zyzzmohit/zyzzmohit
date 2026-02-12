@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Hey, I'm Mohit Ray</h1>
+  <h1>👋 Hey</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F05032&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Scalable+Web+Applications;Crafting+Seamless+User+Experiences" alt="Typing SVG" />
